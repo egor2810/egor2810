@@ -1,15 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="center">Меня зовут Егор , 25 лет, Москва</p>
+<h1 align="left">Аблогин Егор <br>25 лет <br>Москва</h1>
 
 ###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="egor281013@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="@EgorAblogin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
@@ -67,5 +67,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egor2810&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="152" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left">Удаленная работа</p>
 
 ###
