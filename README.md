@@ -36,7 +36,7 @@
 • Objective-C - на уровне чтения<br/>
 • UIkit<br/>
 • Верстка код/сториборд<br/>
-• algorithms <a href="https://www.codewars.com/users/egor2810" target="_blank"> 
+• Algorithms <a href="https://www.codewars.com/users/egor2810" target="_blank"> 
 	<img align="right" src="https://www.codewars.com/users/egor2810/badges/large"/></a>
 
 </p>
